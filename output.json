@@ -1,0 +1,194 @@
+{
+      "matches": [
+            {
+                  "id": "554231062",
+                  "offset": 11.751450195,
+                  "channel": "0",
+                  "timeskew": 0.0006995201,
+                  "frequencyskew": -0.00016111135
+            }
+      ],
+      "location": {
+            "accuracy": 0.01
+      },
+      "timestamp": 1645372075661,
+      "timezone": "Europe/Moscow",
+      "track": {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "554231062",
+            "title": "Sweet Lover",
+            "subtitle": "PL\u00dcM",
+            "images": {
+                  "background": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/07/df/f307df05-4f3c-6e2a-23c8-e7e510f52d99/cover.jpg/400x400cc.jpg",
+                  "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/07/df/f307df05-4f3c-6e2a-23c8-e7e510f52d99/cover.jpg/400x400cc.jpg",
+                  "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/07/df/f307df05-4f3c-6e2a-23c8-e7e510f52d99/cover.jpg/400x400cc.jpg",
+                  "joecolor": "b:bcdbffp:130401s:00301dt:352f34q:25524a"
+            },
+            "share": {
+                  "subject": "Sweet Lover - PL\u00dcM",
+                  "text": "I used Shazam to discover Sweet Lover by PL\u00dcM.",
+                  "href": "https://www.shazam.com/track/554231062/sweet-lover",
+                  "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/07/df/f307df05-4f3c-6e2a-23c8-e7e510f52d99/cover.jpg/400x400cc.jpg",
+                  "twitter": "I used @Shazam to discover Sweet Lover by PL\u00dcM.",
+                  "html": "https://www.shazam.com/snippets/email-share/554231062?lang=en&country=GB",
+                  "snapchat": "https://www.shazam.com/partner/sc/track/554231062"
+            },
+            "hub": {
+                  "type": "APPLEMUSIC",
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+                  "actions": [
+                        {
+                              "name": "apple",
+                              "type": "applemusicplay",
+                              "id": "1549758590"
+                        },
+                        {
+                              "name": "apple",
+                              "type": "uri",
+                              "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/9a/39/3c/9a393c70-4447-a271-32c6-4246da954643/mzaf_9950713204141246892.plus.aac.ep.m4a"
+                        }
+                  ],
+                  "options": [
+                        {
+                              "caption": "OPEN IN",
+                              "actions": [
+                                    {
+                                          "name": "hub:applemusic:deeplink",
+                                          "type": "applemusicopen",
+                                          "uri": "https://music.apple.com/gb/album/sweet-lover/1549758589?i=1549758590&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                                    },
+                                    {
+                                          "name": "hub:applemusic:deeplink",
+                                          "type": "uri",
+                                          "uri": "https://music.apple.com/gb/album/sweet-lover/1549758589?i=1549758590&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                                    }
+                              ],
+                              "beacondata": {
+                                    "type": "open",
+                                    "providername": "applemusic"
+                              },
+                              "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                              "type": "open",
+                              "listcaption": "Open in Apple Music",
+                              "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                              "colouroverflowimage": false,
+                              "providername": "applemusic"
+                        },
+                        {
+                              "caption": "BUY",
+                              "actions": [
+                                    {
+                                          "type": "uri",
+                                          "uri": "https://itunes.apple.com/gb/album/sweet-lover/1549758589?i=1549758590&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                                    }
+                              ],
+                              "beacondata": {
+                                    "type": "buy",
+                                    "providername": "itunes"
+                              },
+                              "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                              "type": "buy",
+                              "listcaption": "Buy on iTunes",
+                              "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                              "colouroverflowimage": false,
+                              "providername": "itunes"
+                        }
+                  ],
+                  "providers": [
+                        {
+                              "caption": "Open in Spotify",
+                              "images": {
+                                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                              },
+                              "actions": [
+                                    {
+                                          "name": "hub:spotify:searchdeeplink",
+                                          "type": "uri",
+                                          "uri": "spotify:search:Sweet%20Lover%20PL%C3%9CM"
+                                    }
+                              ],
+                              "type": "SPOTIFY"
+                        },
+                        {
+                              "caption": "Open in Deezer",
+                              "images": {
+                                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                              },
+                              "actions": [
+                                    {
+                                          "name": "hub:deezer:searchdeeplink",
+                                          "type": "uri",
+                                          "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sweet+Lover%27%20artist%3A%27PL%C3%9CM%27%7D"
+                                    }
+                              ],
+                              "type": "DEEZER"
+                        }
+                  ],
+                  "explicit": false,
+                  "displayname": "APPLE MUSIC"
+            },
+            "sections": [
+                  {
+                        "type": "SONG",
+                        "metapages": [
+                              {
+                                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/07/df/f307df05-4f3c-6e2a-23c8-e7e510f52d99/cover.jpg/400x400cc.jpg",
+                                    "caption": "Sweet Lover"
+                              }
+                        ],
+                        "tabname": "Song",
+                        "metadata": [
+                              {
+                                    "title": "Album",
+                                    "text": "Sweet Lover - Single"
+                              },
+                              {
+                                    "title": "Label",
+                                    "text": "PL\u00dcM"
+                              },
+                              {
+                                    "title": "Released",
+                                    "text": "2021"
+                              }
+                        ]
+                  },
+                  {
+                        "type": "VIDEO",
+                        "tabname": "Video",
+                        "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/554231062/youtube/video?q=PL%C3%9CM+%22Sweet+Lover%22"
+                  },
+                  {
+                        "type": "RELATED",
+                        "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-554231062?startFrom=0&pageSize=20&connected=",
+                        "tabname": "Related"
+                  }
+            ],
+            "url": "https://www.shazam.com/track/554231062/sweet-lover",
+            "isrc": "FRDCX2106130",
+            "genres": {
+                  "primary": "Electronic"
+            },
+            "urlparams": {
+                  "{tracktitle}": "Sweet+Lover",
+                  "{trackartist}": "PL%C3%9CM"
+            },
+            "myshazam": {
+                  "apple": {
+                        "actions": [
+                              {
+                                    "name": "myshazam:apple",
+                                    "type": "uri",
+                                    "uri": "https://music.apple.com/gb/album/sweet-lover/1549758589?i=1549758590&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                              }
+                        ]
+                  }
+            },
+            "highlightsurls": {},
+            "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-554231062?startFrom=0&pageSize=20&connected=",
+            "albumadamid": "1549758589"
+      },
+      "tagid": "F3065C4A-2466-4931-8622-6587F4BD57D0"
+}
