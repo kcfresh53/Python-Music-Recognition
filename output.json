@@ -1,39 +1,39 @@
 {
       "matches": [
             {
-                  "id": "581865364",
-                  "offset": 1.993815795,
+                  "id": "265891518",
+                  "offset": 12.792890625,
                   "channel": "0",
-                  "timeskew": 7.3075294e-05,
-                  "frequencyskew": -8.0525875e-05
+                  "timeskew": -0.00062829256,
+                  "frequencyskew": 0.00016105175
             }
       ],
       "location": {
             "accuracy": 0.01
       },
-      "timestamp": 1646076675548,
+      "timestamp": 1648739337274,
       "timezone": "Europe/Moscow",
       "track": {
             "layout": "5",
             "type": "MUSIC",
-            "key": "581865364",
-            "title": "Symphony",
-            "subtitle": "Arc North & Donna Tella",
+            "key": "143081048",
+            "title": "Attak",
+            "subtitle": "Rustie Feat. Danny Brown",
             "images": {
-                  "background": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e1/e5/19e1e5af-1039-5edb-de87-6e8d7e0a8bdd/pr_source.png/800x800cc.jpg",
-                  "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/95/e7/ee/95e7ee8d-29f5-2e1d-ecaf-1cd2178eede4/cover.jpg/400x400cc.jpg",
-                  "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/95/e7/ee/95e7ee8d-29f5-2e1d-ecaf-1cd2178eede4/cover.jpg/400x400cc.jpg",
-                  "joecolor": "b:0a1a22p:d8f9f8s:5fbbcct:aecccdq:4e9baa"
+                  "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/64/da/c3/64dac385-66ae-2a54-03c7-32fa466bc3fd/pr_source.png/800x800cc.jpg",
+                  "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/e3/fe/c6/e3fec652-52e6-e630-0fcd-2c2b7f875912/WARP253_Packshot_1400.jpg/400x400cc.jpg",
+                  "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/e3/fe/c6/e3fec652-52e6-e630-0fcd-2c2b7f875912/WARP253_Packshot_1400.jpg/400x400cc.jpg",
+                  "joecolor": "b:ccd5dep:0e0804s:0f0b09t:343130q:343433"
             },
             "share": {
-                  "subject": "Symphony - Arc North & Donna Tella",
-                  "text": "I used Shazam to discover Symphony by Arc North & Donna Tella.",
-                  "href": "https://www.shazam.com/track/581865364/symphony",
-                  "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/95/e7/ee/95e7ee8d-29f5-2e1d-ecaf-1cd2178eede4/cover.jpg/400x400cc.jpg",
-                  "twitter": "I used @Shazam to discover Symphony by Arc North & Donna Tella.",
-                  "html": "https://www.shazam.com/snippets/email-share/581865364?lang=en&country=GB",
-                  "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e1/e5/19e1e5af-1039-5edb-de87-6e8d7e0a8bdd/pr_source.png/800x800cc.jpg",
-                  "snapchat": "https://www.shazam.com/partner/sc/track/581865364"
+                  "subject": "Attak - Rustie Feat. Danny Brown",
+                  "text": "I used Shazam to discover Attak by Rustie Feat. Danny Brown.",
+                  "href": "https://www.shazam.com/track/143081048/attak",
+                  "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/e3/fe/c6/e3fec652-52e6-e630-0fcd-2c2b7f875912/WARP253_Packshot_1400.jpg/400x400cc.jpg",
+                  "twitter": "I used @Shazam to discover Attak by Rustie Feat. Danny Brown.",
+                  "html": "https://www.shazam.com/snippets/email-share/143081048?lang=en&country=GB",
+                  "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/64/da/c3/64dac385-66ae-2a54-03c7-32fa466bc3fd/pr_source.png/800x800cc.jpg",
+                  "snapchat": "https://www.shazam.com/partner/sc/track/143081048"
             },
             "hub": {
                   "type": "APPLEMUSIC",
@@ -42,12 +42,12 @@
                         {
                               "name": "apple",
                               "type": "applemusicplay",
-                              "id": "1581761447"
+                              "id": "891326608"
                         },
                         {
                               "name": "apple",
                               "type": "uri",
-                              "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/02/12/56/021256b9-3c06-21c2-dd51-523504907027/mzaf_12677830431989985596.plus.aac.ep.m4a"
+                              "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/96/01/11960189-3fff-d82e-a79d-1ee26848cecf/mzaf_9713411165390593213.plus.aac.ep.m4a"
                         }
                   ],
                   "options": [
@@ -57,12 +57,12 @@
                                     {
                                           "name": "hub:applemusic:deeplink",
                                           "type": "applemusicopen",
-                                          "uri": "https://music.apple.com/gb/album/symphony/1581761283?i=1581761447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                                          "uri": "https://music.apple.com/gb/album/attak-feat-danny-brown/891326497?i=891326608&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
                                     },
                                     {
                                           "name": "hub:applemusic:deeplink",
                                           "type": "uri",
-                                          "uri": "https://music.apple.com/gb/album/symphony/1581761283?i=1581761447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                                          "uri": "https://music.apple.com/gb/album/attak-feat-danny-brown/891326497?i=891326608&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
                                     }
                               ],
                               "beacondata": {
@@ -81,7 +81,7 @@
                               "actions": [
                                     {
                                           "type": "uri",
-                                          "uri": "https://itunes.apple.com/gb/album/symphony/1581761283?i=1581761447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                                          "uri": "https://itunes.apple.com/gb/album/attak-feat-danny-brown/891326497?i=891326608&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
                                     }
                               ],
                               "beacondata": {
@@ -107,7 +107,7 @@
                                     {
                                           "name": "hub:spotify:searchdeeplink",
                                           "type": "uri",
-                                          "uri": "spotify:search:Symphony%20Arc%20North"
+                                          "uri": "spotify:search:Attak%20Rustie"
                                     }
                               ],
                               "type": "SPOTIFY"
@@ -122,7 +122,7 @@
                                     {
                                           "name": "hub:deezer:searchdeeplink",
                                           "type": "uri",
-                                          "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symphony%27%20artist%3A%27Arc+North++Donna+Tella%27%7D"
+                                          "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Attak%27%20artist%3A%27Rustie%27%7D"
                                     }
                               ],
                               "type": "DEEZER"
@@ -136,131 +136,159 @@
                         "type": "SONG",
                         "metapages": [
                               {
-                                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e1/e5/19e1e5af-1039-5edb-de87-6e8d7e0a8bdd/pr_source.png/800x800cc.jpg",
-                                    "caption": "Arc North"
+                                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/64/da/c3/64dac385-66ae-2a54-03c7-32fa466bc3fd/pr_source.png/800x800cc.jpg",
+                                    "caption": "Rustie"
                               },
                               {
-                                    "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/95/e7/ee/95e7ee8d-29f5-2e1d-ecaf-1cd2178eede4/cover.jpg/400x400cc.jpg",
-                                    "caption": "Symphony"
+                                    "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/e3/fe/c6/e3fec652-52e6-e630-0fcd-2c2b7f875912/WARP253_Packshot_1400.jpg/400x400cc.jpg",
+                                    "caption": "Attak"
                               }
                         ],
                         "tabname": "Song",
                         "metadata": [
                               {
                                     "title": "Album",
-                                    "text": "Symphony - Single"
+                                    "text": "Green Language"
                               },
                               {
                                     "title": "Label",
-                                    "text": "NCS"
+                                    "text": "Warp Records"
                               },
                               {
                                     "title": "Released",
-                                    "text": "2021"
+                                    "text": "2014"
                               }
                         ]
                   },
                   {
                         "type": "LYRICS",
                         "text": [
-                              "Started as a whisper",
-                              "Message from a new world",
-                              "I'd never known",
-                              "Something about it felt like",
-                              "It've been waiting my whole life",
-                              "Is this home?",
+                              "We're laughing at you, talking 'bout you",
+                              "Though we askin' out when",
+                              "We know you be hustling backwards",
+                              "Electroslide and rewind",
+                              "My pockets looking like rerun,",
+                              "I've begun to dethrone",
+                              "You sippin' on that seagrams,",
+                              "Talkin' bout you gonna kill something",
+                              "Nigga must think they real or somethin'",
+                              "Go ahead and pop a pill or somethin'",
+                              "You ain't fucking with me might as well od",
+                              "So after all that one take ten times three",
+                              "DANNY BROWN bitch and that boy RUSTIE,",
+                              "Got the game on lock like we changed the key,",
+                              "You can't get it, throw one up",
+                              "Treat that mouth like police raid a house,",
+                              "Bust all up in it, nuts all in it",
+                              "Brand new tenant, moved all up in it",
+                              "Cash no lease, this ain't rented",
+                              "Came back all it's OG scented",
+                              "Who the fuck you think y'all is, I'm a grown ass man",
+                              "Playing out with no kids",
+                              "Back in 2003 used to post up and roll up bags of pounds of the mid",
+                              "Used to trap ot with the D, on the greyhound",
+                              "Buss one pair of jeans",
+                              "Touchdown in the city",
+                              "Like \"nigga where the fiends?\"",
+                              "Now I do the same thing, I was just 16",
+                              "Get money my nigga like I'm post to,",
+                              "If I don't I might go postal",
+                              "Think a nigga don't I was gonna post you",
+                              "If you're play around a nigga, might smoke you",
                               "",
-                              "I can hear each song",
-                              "Calling my name",
-                              "And I feel angels around",
-                              "When I'll start to sing",
-                              "And suddenly it feels like",
-                              "Heaven's not so far away",
-                              "Tell me can you hear the symphony?",
+                              "Be aware what you say in the vocals",
+                              "Hood starving, everybody going loco",
+                              "Gotta put a pussy nigga in the chokehold",
+                              "No joke that's a code that's the code of survival",
+                              "Battle Royal everybody your rival,",
+                              "In the ghetto everybody going psycho",
                               "",
-                              "Tell me can you hear the symphony?",
-                              "",
-                              "I can't help but think",
-                              "That it's meant to be",
-                              "That I'm finally right where I'm supposed to, oh",
-                              "If I let you in to the secret",
-                              "Would you listen?",
-                              "",
-                              "I can hear each song",
-                              "Calling my name",
-                              "And I feel angels around",
-                              "When I'll start to sing",
-                              "And suddenly it feels like",
-                              "Heaven's not so far away",
-                              "Tell me can you hear the symphony?",
-                              "",
-                              "Tell me can you hear the symphony?",
-                              "",
-                              "And before too long",
-                              "I found where I belong",
-                              "I can hear it, I can hear it, oh-woah",
-                              "I can't stop the rush",
-                              "Every note I touch",
-                              "I can feel it, I can feel it saving me, woah",
-                              "",
-                              "Tell me can you hear the symphony?"
+                              "I'm a maniac, brainiac when I'm aiming at",
+                              "Knock your brain out your hat when I cock that",
+                              "You can't block that, it's just brain out hat",
+                              "Stop that, you ain't 'bout that",
+                              "Send my lil' niggas where ya house at",
+                              "Couple stacks and a couple packs, put your daughter's fingers in a mouse trap",
+                              "Off that cause we on one",
+                              "Can't come back like you stole somethin'",
+                              "Nigga might as well, let me hold somethin'",
+                              "Before I take that and your ho for frontin'",
+                              "Pull up like smoke somethin'",
+                              "Zip of OG, might roast somethin'",
+                              "Pop a bottle, might toast somethin'",
+                              "Nigga keep hatin', I'mma toast somethin'",
+                              "Whipping out that Black and Decker",
+                              "Putting lean in my Dr. Pepper",
+                              "Chess shit and you playing checkers",
+                              "Hit ya chest, now for help ya desperate",
+                              "Mac attack on that ho shit, might fuck around, get your throat split",
+                              "If you don't know shit, better know this",
+                              "Fuck around, hocus-pocus",
+                              "You in focus, I'm a locust, see them big pictures and stay focused",
+                              "Your hoe luck atrocious, my bitches look ferocious",
+                              "Breakin' shit psychosis, you niggas talkin' about practice",
+                              "Roll around with that acid, if you don't know start askin'",
+                              "Middle man be taxin', made a couple hundred, kept stackin'",
+                              "Know it sound like I'm braggin' but a nigga do get them racks in",
+                              "I ain't gotta say shit, tell your bitch to suck my dick",
+                              "I ain't gotta say shit, tell your bitch to suck my dick!"
                         ],
-                        "url": "https://cdn.shazam.com/lyrics/v1/en/GB/iphone/musixmatch/subtitles/133441753/190/1?token=023c828b246292e4d0522139eb3380ab",
-                        "footer": "Writer(s): Oliver Belvelin, Oscar Christiansson, Alexis Hammann\nLyrics powered by www.musixmatch.com",
+                        "url": "https://cdn.shazam.com/lyrics/v1/en/GB/iphone/musixmatch/subtitles/47414991/181/1?token=421b3d83ef0cda433b3752f96b952f6b",
+                        "footer": "Writer(s): Sewell Daniel, Whyte Russell David\nLyrics powered by www.musixmatch.com",
                         "tabname": "Lyrics",
                         "beacondata": {
-                              "lyricsid": "27414896",
+                              "lyricsid": "13224289",
                               "providername": "musixmatch",
-                              "commontrackid": "133441753"
+                              "commontrackid": "47414991"
                         }
                   },
                   {
                         "type": "VIDEO",
                         "tabname": "Video",
-                        "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/581865364/youtube/video?q=Arc+North+%26+Donna+Tella+%22Symphony%22&c=UCqawukswZ0GUo4efsX9kLGw"
+                        "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/143081048/youtube/video?q=Rustie+%22Attak%22"
                   },
                   {
                         "type": "ARTIST",
-                        "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e1/e5/19e1e5af-1039-5edb-de87-6e8d7e0a8bdd/pr_source.png/800x800cc.jpg",
-                        "id": "202095234",
-                        "name": "Arc North",
+                        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/64/da/c3/64dac385-66ae-2a54-03c7-32fa466bc3fd/pr_source.png/800x800cc.jpg",
+                        "id": "40270630",
+                        "name": "Rustie",
                         "verified": false,
-                        "url": "https://cdn.shazam.com/digest/v1/en/GB/iphone/artist/202095234/recentpost",
+                        "url": "https://cdn.shazam.com/digest/v1/en/GB/iphone/artist/40270630/recentpost",
                         "actions": [
                               {
                                     "type": "artistposts",
-                                    "id": "202095234"
+                                    "id": "40270630"
                               },
                               {
                                     "type": "artist",
-                                    "id": "202095234"
+                                    "id": "40270630"
                               }
                         ],
                         "tabname": "Artist",
                         "toptracks": {
-                              "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/artisttoptracks_202095234?startFrom=0&pageSize=20&connected="
+                              "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/artisttoptracks_40270630?startFrom=0&pageSize=20&connected="
                         }
                   },
                   {
                         "type": "RELATED",
-                        "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-581865364?startFrom=0&pageSize=20&connected=",
+                        "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-143081048?startFrom=0&pageSize=20&connected=",
                         "tabname": "Related"
                   }
             ],
-            "url": "https://www.shazam.com/track/581865364/symphony",
+            "url": "https://www.shazam.com/track/143081048/attak",
             "artists": [
                   {
-                        "id": "202095234",
-                        "adamid": "1044503491"
+                        "id": "40270630",
+                        "adamid": "269380425"
                   }
             ],
-            "isrc": "GB2LD2110252",
+            "isrc": "GBBPW1400145",
             "genres": {
                   "primary": "Electronic"
             },
             "urlparams": {
-                  "{tracktitle}": "Symphony",
-                  "{trackartist}": "Arc+North+%26+Donna+Tella"
+                  "{tracktitle}": "Attak",
+                  "{trackartist}": "Rustie"
             },
             "myshazam": {
                   "apple": {
@@ -268,17 +296,17 @@
                               {
                                     "name": "myshazam:apple",
                                     "type": "uri",
-                                    "uri": "https://music.apple.com/gb/album/symphony/1581761283?i=1581761447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                                    "uri": "https://music.apple.com/gb/album/attak-feat-danny-brown/891326497?i=891326608&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
                               }
                         ]
                   }
             },
             "highlightsurls": {
-                  "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/1044503491/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios",
-                  "relatedhighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/202095234/artist-similarities-id-202095234/relatedhighlights?max_artists=5&affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+                  "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/269380425/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios",
+                  "relatedhighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/40270630/artist-similarities-id-40270630/relatedhighlights?max_artists=5&affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
             },
-            "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-581865364?startFrom=0&pageSize=20&connected=",
-            "albumadamid": "1581761283"
+            "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-143081048?startFrom=0&pageSize=20&connected=",
+            "albumadamid": "891326497"
       },
-      "tagid": "924B155E-20E5-4963-856C-E6CDD5E93690"
+      "tagid": "F2EDBBEC-D0D3-4FF8-965F-64D763365B56"
 }

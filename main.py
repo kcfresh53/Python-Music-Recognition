@@ -55,6 +55,23 @@ async def main():
     with open('output.json', 'w') as f:
         f.write(json.dumps(out, indent=6))
 
+    await output()
+
+
+async def output():
+    with open('output.json') as json_file:
+        data = json.load(json_file)
+
+        jsonData = data["track"]
+        coverart_image_link = jsonData["images"]["coverart"] #cover art image
+        backround_image_link = jsonData["images"]["background"] #backround art image
+
+        print("Song Name:", jsonData.get("title"))
+        print(jsonData.get("subtitle"))
+        print(coverart_image_link)
+        print(backround_image_link)
+        
+
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(record())
